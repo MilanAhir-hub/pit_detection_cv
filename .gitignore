@@ -15,3 +15,8 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+
+# Node modules and package files
+node_modules/
+package.json
+package-lock.json
